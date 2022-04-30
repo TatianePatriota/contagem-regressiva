@@ -59,5 +59,19 @@ button {
 button:hover {
       background-color: rgba(250, 252, 253, 0.6);
 }
+@media screen and (max-width:780px) {
+ 
+    .titulo-principal{
+        font-size: 30px;
+    }
+
+    .contagem {
+        width: 80%;
+    }
+
+    h1 {
+        font-size: 30px;
+    }
+}
 
   
