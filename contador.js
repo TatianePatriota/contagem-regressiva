@@ -15,6 +15,7 @@ const atualizarTempo = (tempo) => {
   horas.textContent = editaDigito(quantidadeDeHoras);
   minutos.textContent = editaDigito(quantidadeDeMinutos);
   segundos.textContent = editaDigito(quantidadeDeSegundos);
+  
 };
 
 const contagemRegressiva = (tempo) => {
